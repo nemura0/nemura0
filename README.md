@@ -2,7 +2,7 @@
 
 # ▸ ▪ ▸ ▪ ▸ ▪ ▸
 
-*trying to build things* 🖤
+*trying to build things* :)
 
 <br>
 
