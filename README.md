@@ -1,6 +1,6 @@
 <div align="center">
 
-# nemura0
+<img src="https://imgur.com/a/kv43CPr" alt="banner" width="100%" />
 
 3rd-year IT Engineering Student · Music Producer · Sound Designer
 
