@@ -1,12 +1,14 @@
+<img align="right" width="200" src="./assets/anime.gif" alt="anime gif" />
+<!-- ☝️ REEMPLAZA "./assets/anime.gif" con la ruta a tu GIF B&N.
+     Recomendado: sube el .gif a una carpeta /assets en tu repo nemura0/nemura0 -->
+
 # Hi, I'm Vicente 👋
 
 **IT Engineering Student @ UCN · Music Producer · Sound Designer**
 
 I'm a systems-oriented developer with a background in enterprise networking, multimedia production, and software development. Currently studying **Information Technology Engineering** at Universidad Católica del Norte, Chile.
 
----
-
-## Quick Facts
+### Quick Facts
 
 - 🎧 **+10 years** in Electronic Music Production & advanced Sound Synthesis
 - 🎮 Built a complete **gameplay-audio sync system** in Unity 2D — all SFX/UI synthesized from scratch
@@ -14,9 +16,11 @@ I'm a systems-oriented developer with a background in enterprise networking, mul
 - 🛠️ Workflow driven by **clean architecture**, AI tooling (Claude Code), and strict documentation (Notion)
 - 🎨 Adobe CC power user — Premiere Pro, After Effects, Photoshop, Illustrator, Lightroom
 
+<br clear="right"/>
+
 ---
 
-## Featured Experience
+## 📁 Featured Experience
 
 **Network & Systems Contractor** · CCU, La Gigante & Terrayaku *(Seasonal 2024–2026)*
 - Managed enterprise database systems and front-end updates (HTML5/CSS3/JS)
@@ -27,15 +31,6 @@ I'm a systems-oriented developer with a background in enterprise networking, mul
 - Led a 5-member team building a rhythm-based game
 - Designed core gameplay synchronization logic
 - Synthesized 100% of UI and SFX from scratch
-
----
-
-## 🌐 Socials
-
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nemura0)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vicentegve@gmail.com)
-
----
 
 ## 💻 Tech Stack
 
@@ -58,19 +53,18 @@ I'm a systems-oriented developer with a background in enterprise networking, mul
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+## 🌐 Connect
+
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/nemura0)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicentegve@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.shion.dev/api?username=nemura0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=nemura0&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nemura0&theme=dark&hide_border=false&layout=compact" />
 
 ![Streak](https://streak-stats.demolab.com/?user=nemura0&theme=dark&hide_border=false)
-
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=nemura0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![](https://komarev.com/ghpvc/?username=nemura0&color=6&label=Profile+Views)](https://github.com/nemura0)
