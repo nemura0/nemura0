@@ -1,60 +1,76 @@
-<img width="1080" height="573" alt="image" src="https://github.com/user-attachments/assets/255a7a65-4a73-4254-90aa-f0f77c776c9e" /><div align="center">
+# Hi, I'm Vicente 👋
 
-<img src="https://i.imgur.com/tGKkaqV.jpeg" alt="banner" width="100%" />
+**IT Engineering Student @ UCN · Music Producer · Sound Designer**
 
-3rd-year IT Engineering Student · Music Producer · Sound Designer
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=800&color=888888&center=true&vCenter=true&width=460&lines=IT+Engineering+%E2%80%94+3rd+Year;Music+Producer+%26+Sound+Designer;Game+Dev+Enthusiast)](https://git.io/typing-svg)
-
-</div>
-
-<br>
+I'm a systems-oriented developer with a background in enterprise networking, multimedia production, and software development. Currently studying **Information Technology Engineering** at Universidad Católica del Norte, Chile.
 
 ---
 
-**Code & Dev**
+## Quick Facts
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-
-**Workflow & AI**
-
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-000000?style=flat-square&logo=obsidian&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=googlegemini&logoColor=white)
-
-**Audio**
-
-![FL Studio](https://img.shields.io/badge/FL_Studio-000000?style=flat-square&logo=image-line&logoColor=white)
-![Ableton](https://img.shields.io/badge/Ableton_Live-000000?style=flat-square&logo=abletonlive&logoColor=white)
-![Logic Pro](https://img.shields.io/badge/Logic_Pro-000000?style=flat-square&logo=apple&logoColor=white)
-&nbsp;`Serum` `Phase Plant` `Vital` `FM8`
+- 🎧 **+10 years** in Electronic Music Production & advanced Sound Synthesis
+- 🎮 Built a complete **gameplay-audio sync system** in Unity 2D — all SFX/UI synthesized from scratch
+- 🌐 Enterprise **networking & infrastructure** experience (Cisco NAC, Packet Tracer, database admin)
+- 🛠️ Workflow driven by **clean architecture**, AI tooling (Claude Code), and strict documentation (Notion)
+- 🎨 Adobe CC power user — Premiere Pro, After Effects, Photoshop, Illustrator, Lightroom
 
 ---
 
-**Projects**
+## Featured Experience
 
-`Beat Runner` — 2D rhythm game in Unity. Product Owner, Music Producer & Sound Designer. All SFX synthesized from scratch.
+**Network & Systems Contractor** · CCU, La Gigante & Terrayaku *(Seasonal 2024–2026)*
+- Managed enterprise database systems and front-end updates (HTML5/CSS3/JS)
+- Deployed Cisco NAC modules and designed network topologies in Packet Tracer
+- Workflow tracking via advanced Excel modeling
 
-`Contractor` — Web dev, catalog structuring and branding for La Gigante and Terrayaku.
-
-`Inventory System` — MySQL database via cPanel for hardware data management.
+**Beat Runner (Unity 2D)** · Product Owner, Lead Developer & Sound Designer
+- Led a 5-member team building a rhythm-based game
+- Designed core gameplay synchronization logic
+- Synthesized 100% of UI and SFX from scratch
 
 ---
 
-<div align="center">
+## 🌐 Socials
 
-<kbd>[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)</kbd> &nbsp; <kbd>[SoundCloud](https://soundcloud.com/YOUR_SOUNDCLOUD)</kbd> &nbsp; <kbd>[Email](mailto:YOUR_EMAIL)</kbd>
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nemura0)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vicentegve@gmail.com)
 
-<br><br>
+---
 
-![](https://komarev.com/ghpvc/?username=nemura0&style=flat-square&color=000000&label=)
+## 💻 Tech Stack
 
-</div>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.shion.dev/api?username=nemura0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![Streak](https://streak-stats.demolab.com/?user=nemura0&theme=dark&hide_border=false)
+
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=nemura0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+[![](https://komarev.com/ghpvc/?username=nemura0&color=6&label=Profile+Views)](https://github.com/nemura0)
